@@ -10,17 +10,19 @@ Best month by total distance;
 Interactive distance chart over time;
 Delete runs with one click;
 
-Tech Stack
+Tech Stack:
+
 Python – core logic;
 SQLite – local database;
 CustomTkinter – UI;
 Matplotlib – distance chart;
 
-Getting Started
+Getting Started:
+
 Install dependencies:
-bash
+
 pip install customtkinter 
 
 Run the app:
-bash
+
 python main.py
